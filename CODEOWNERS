@@ -1,0 +1,9 @@
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+# Order is important. The last matching pattern has the most precedence.
+
+# These will automatically assign PRs that touch files in these directories to their respective teams for review.
+# @todo test ownership and mappings
+docs/00-engineering/* @Bixal/@bixal-core-dev
+docs/01-security/* @Bixal/@security
+docs/02-help-desk/* @Bixal/@operations
