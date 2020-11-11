@@ -1,4 +1,4 @@
-# TECHNOLOGY HANDBOOK
+# BIXAL METHODOLOGY
 
 ## Bixal Solutions, Inc.
 
@@ -9,16 +9,13 @@ Fairfax, VA 22030
 703.634.5701 | main
 bixal.com
 
-### <a name="purpose"></a>Techbook Purpose
+### <a name="purpose"></a>Bixal Methodology
 
-This Techbook has been prepared to describe Bixal Solutions' philosophy, working methods and processes, employment practices, policies, benefits, and the conduct we expect from members of our team.
+Bixal's Methodology defines a framework for Bixal employees to use as a guideine in developing both digital and non digital work. Further, the Methodology promotes a consistent taxonomy and human centered approach from which to begin solving problems for our clients and their constiutents, the American public.
 
 ## License
 
-Copyright 2019 Bixal Solutions.
+Copyright 2020 Bixal Solutions.
 
 This work is licensed under the terms of the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](LICENSE.md).
 
-## Acknowledgements
-
-We'd like to thank the folks at 18F for [their handbook](https://github.com/18F/handbook), and [CivicActions](https://github.com/CivicActions/handbook) from which this documentation was forked. We welcome you to fork our documentation, or use the source books, which is licensed as CC0.
